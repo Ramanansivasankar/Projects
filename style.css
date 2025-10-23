@@ -25,12 +25,12 @@
 
 .navbar-links a{
     text-decoration: none;
-    color: #1D232C;
+    color: darkslateblue;
 }
 
 .navbar-links a:hover{
     text-decoration: underline;
-    color: #1D232C;
+    color: darkslateblue;
 }
 
 .navbar-menu-toggle{
@@ -40,7 +40,7 @@
 /*Side Navbar*/
 
 .side-navbar{
-    background-color: #1D232C;
+    color: darkslateblue;
     width: 50%;
     height: 100%;
     position: fixed;
@@ -83,7 +83,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 10px;
-    background-color: #1D232C;
+    background-color: darkslateblue;
     color: white;
     cursor: pointer;
     border: none;
@@ -142,7 +142,7 @@
     padding-top: 5%;
     padding-bottom: 5%;
     margin-top: 10px;
-    color: #1D232C;
+    color: darkslateblue;
     position: absolute;
     border: none;
     border-radius: 10px;
@@ -167,13 +167,13 @@
 .news button{
     margin-top: 10px;
     color: #F2F4F7;
-    background-color: #1D232C;
+    background-color: darkslateblue;
     border-radius: 10px;
     padding: 10px;
 }
 
 .footer{
-    background-color: #1D232C;
+    background-color: darkslateblue;
     color: white;
     padding: 40px;
     border-radius: 0;
@@ -224,7 +224,7 @@
 }
 
 .contact-section{
-    background-color: #1D232C;
+    background-color: darkslateblue;
     color: white;
     padding-left: 60px;
     padding-right: 60px;
